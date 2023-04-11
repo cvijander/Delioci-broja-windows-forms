@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\bin\Debug\net6.0-windows\Delioci broja.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\bin\Debug\net6.0-windows\Delioci broja.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\bin\Debug\net6.0-windows\Delioci broja.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\bin\Debug\net6.0-windows\Delioci broja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\bin\Debug\net6.0-windows\Delioci broja.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci_broja.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\refint\Delioci broja.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\Delioci broja.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Delioci broja\Delioci broja\obj\Debug\net6.0-windows\ref\Delioci broja.dll
